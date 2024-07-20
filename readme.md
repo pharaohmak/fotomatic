@@ -1,7 +1,25 @@
-# Off-Platform Project: Fotomatic
+# Fotomatic
 
-Fix a broken version of a responsive website in this project!
+**Fotomatic** is a promotional website for the Fotomatic instant format camera, showcasing its features, filters, and providing a sign-up section for users to join the waiting list for the product release.
 
-In this project you will fix a broken version of a responsive website called Fotomatic. You will update it to look and work exactly the same as the specs do. Download the broken code here and the specs here https://content.codecademy.com/courses/freelance-1/capstone-1/specs/fotomatic_spec_landing.png. You can also see a working version of the final product here https://content.codecademy.com/courses/freelance-1/capstone-1/solution/index.html.
+## Project Overview
 
-As you fix Fotomatic’s bugs, remember to use the skills you acquired in the Chrome DevTools article to help you decipher and update the site’s CSS. Chrome DevTools are essential for debugging – they allow you to view current style values, toggle rules, and test different rule values.
+This project presents a modern and engaging homepage for Fotomatic, highlighting the camera's features, filters, and providing an easy way for users to join the waiting list for its release.
+
+## Features
+
+- **Header Section:**
+  - Navigation bar with links to Product detail, About us, and Follow us on Instagram.
+  - Separate navigation layout for desktop and mobile views.
+- **Sign-Up Section:**
+  - Banner inviting users to request a demo and join the waiting list for the February 2017 release.
+- **Features Section:**
+  - Detailed information about the camera's advanced features and craftsmanship.
+  - Images showcasing the camera's design and features.
+- **Filters Section:**
+  - Information about the 20+ filters available to enhance creativity.
+  - Images demonstrating the different filters.
+- **Quotes Section:**
+  - A notable quote highlighting the impact of the Fotomatic camera on photography.
+- **Footer Section:**
+  - Copyright information and design location.
